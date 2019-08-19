@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PickMe">
+        <attr name="nestedScroll" format="boolean" />
+        <attr name="positiveColor" format="color" />
+        <attr name="negativeColor" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textCornerRadius" format="dimension" />
+        <attr name="justification" format="enum">
+            <enum name="start" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="end" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>
