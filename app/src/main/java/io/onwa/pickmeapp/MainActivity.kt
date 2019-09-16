@@ -1,4 +1,4 @@
-package io.onwa.pickme
+package io.onwa.pickmeapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
